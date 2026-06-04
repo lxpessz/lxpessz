@@ -3,7 +3,7 @@
 <p>
   🚀 Software Engineer in the making &nbsp;|&nbsp;
   🔄 Career changer &nbsp;|&nbsp;
-  📍 São Paulo, BR
+  📍 Santos, BR
 </p>
 
 ---
