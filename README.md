@@ -1,7 +1,7 @@
 <h1>Hi, I'm Franciele 👋</h1>
 
 <p>
-  🚀 Software Engineer in the making &nbsp;|&nbsp;
+  🚀 Software Engineer;|&nbsp;
   🔄 Career changer &nbsp;|&nbsp;
   📍 Santos, BR
 </p>
