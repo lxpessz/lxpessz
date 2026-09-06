@@ -1,9 +1,9 @@
 <h1>Hi, I'm Franciele 👋</h1>
 
 <p>
-  🚀 Software Engineer |&nbsp;
-  🔄 Career changer &nbsp;|&nbsp;
-  📍 Santos, BR
+  Software Engineer |&nbsp;
+  Análise e Desenvolvimento de Sistemas &nbsp;|&nbsp;
+  Python - JavaScript
 </p>
 
 ---
