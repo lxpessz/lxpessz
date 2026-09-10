@@ -4,7 +4,7 @@
 
 ---
 
-### 👋 Namaste! Sou [Seu Nome]
+### 👋 Hi, I'm Franciele Lopes
 
 - 📚 Atualmente estudando Python, Next.js, Java
 - 💼 Buscando oportunidades como estagiaria em engenharia de softaware 
