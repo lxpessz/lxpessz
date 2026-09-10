@@ -1,34 +1,18 @@
-<h1>Hi, I'm Franciele 👋</h1>
 
-<p>
-  Software Engineer |&nbsp;
-  Análise e Desenvolvimento de Sistemas &nbsp;|&nbsp;
-  Python - JavaScript
-</p>
+
+<h3 align="center">🖥️ Engenheira de Software | Análise e Desenvolvimento de Sistemas 
 
 ---
 
-> I'm transitioning into tech with a focus on software engineering.
-.
+### 👋 Namaste! Sou [Seu Nome]
+
+- 📚 Atualmente estudando Python, Next.js, Java
+- 💼 Buscando oportunidades como estagiaria em engenharia de softaware 
 
 ---
 
-### 🛠️ Tech stack
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
----
-
-### 🔗 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francielelopes)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/lzpesz)
-
----
+### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,figma,git,github,vscode,npm,vite,nodejs" />
 </p>
-
