@@ -1,13 +1,13 @@
 
 
-<h3 align="center">🖥️ Engenheira de Software | Análise e Desenvolvimento de Sistemas 
+<h3 align="center"> :globe_with_meridians: Software Engineer | Systems Analysis and Development  
 
 ---
 
 ### 👋 Hi, I'm Franciele Lopes
 
-- 📚 Atualmente estudando Python, Power BI, Java, JavaScript
-- 💼 Buscando oportunidades como estagiaria em engenharia de softaware 
+- Estudante de Análise e Desenvolvimento de Sistemas;
+- estudando Python, Power BI, Java, JavaScript;
 
 ---
 
