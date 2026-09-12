@@ -6,13 +6,13 @@
 
 ### 👋 Hi, I'm Franciele Lopes
 
-- 📚 Atualmente estudando Python, Next.js, Java
+- 📚 Atualmente estudando Python, Power BI, Java, JavaScript
 - 💼 Buscando oportunidades como estagiaria em engenharia de softaware 
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,figma,git,github,vscode,npm,vite,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass,figma,git,github,vscode,npm,nodejs" />
 </p>
